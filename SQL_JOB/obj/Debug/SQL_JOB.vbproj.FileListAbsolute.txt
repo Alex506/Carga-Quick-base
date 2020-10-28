@@ -1,0 +1,11 @@
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\bin\Debug\SQL_JOB.exe.config
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\bin\Debug\SQL_JOB.exe
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\bin\Debug\SQL_JOB.pdb
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\bin\Debug\SQL_JOB.xml
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\obj\Debug\SQL_JOB.Form1.resources
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\obj\Debug\SQL_JOB.Resources.resources
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\obj\Debug\SQL_JOB.vbproj.GenerateResource.cache
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\obj\Debug\SQL_JOB.vbproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\obj\Debug\SQL_JOB.exe
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\obj\Debug\SQL_JOB.xml
+C:\Users\ALEXANDER\Desktop\SQL_JOB\SQL_JOB\obj\Debug\SQL_JOB.pdb

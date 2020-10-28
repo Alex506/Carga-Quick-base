@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SQL_JOB", "SQL_JOB\SQL_JOB.vbproj", "{422B3A67-3617-4ADD-BA5A-17F62E88843C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Carga_QuickBase", "Carga_QuickBase\Carga_QuickBase.vdproj", "{B0AC5E88-1F76-41DC-AE3F-8CC4C2EEDDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422B3A67-3617-4ADD-BA5A-17F62E88843C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422B3A67-3617-4ADD-BA5A-17F62E88843C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422B3A67-3617-4ADD-BA5A-17F62E88843C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422B3A67-3617-4ADD-BA5A-17F62E88843C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AC5E88-1F76-41DC-AE3F-8CC4C2EEDDCD}.Debug|Any CPU.ActiveCfg = Debug
+		{B0AC5E88-1F76-41DC-AE3F-8CC4C2EEDDCD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568392E7-389C-45B2-B1B4-8649D6105466}
+	EndGlobalSection
+EndGlobal
