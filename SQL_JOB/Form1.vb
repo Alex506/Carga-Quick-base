@@ -2,7 +2,6 @@
 Public Class Form1
 
     Dim conexion As New Conexion
-
     Private Sub Ejecutar_Click(sender As Object, e As EventArgs) Handles btnEnviar.Click
         Try
             Dim respuesta As DialogResult
