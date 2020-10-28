@@ -10,6 +10,7 @@ Public Class Conexion
             Conexion = New SqlConnection("Data Source = 192.168.75.251; Initial catalog = msdb; Persist Security Info = True; Password=bd78952tr; User ID=sa;")
             Conexion.Open()
         Catch ex As Exception
+            'En caso de que no se establezca la conexión se muestra un mensaje de error.
             MessageBox.Show(ex.Message)
         End Try
         Return Conexion

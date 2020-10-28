@@ -18,6 +18,7 @@ Public Class Form1
                 conexion.CerrarConexion()
             End If
         Catch ex As Exception
+            'Se ejecuta la exception en caso de no ejecutarse la opción.
             MessageBox.Show(ex.Message)
         End Try
     End Sub
